@@ -1,5 +1,5 @@
-#ifdef OPENUSERSFILE_h
-#definr OPENUSERSFILE_h
+#ifdef WORKWITHUSERSFILE_h
+#definr WORKWITHUSERSFILE_h
 
 int workWithUsersFile(char name[]);
 
